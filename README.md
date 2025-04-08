@@ -4,20 +4,20 @@ Welcome to my next-word prediction project! I’ve developed an LSTM-based model
 
 ## Project Goals
 **Next-Word Prediction**:     Accurately predict the next word in a sequence using a many-to-one LSTM architecture.<br>
-**Domain-Specific Training**: Leverage literature texts to capture stylistic and contextual nuances.
+**Domain-Specific Training**: Leverage literature texts to capture stylistic and contextual nuances.<br>
 **Interactive Deployment**:   Provide a user-friendly interface via Streamlit for real-time predictions.
 
 ## Features
-**Data Preprocessing**: Tokenized and sequenced literature texts for LSTM compatibility.
-**LSTM Model**:         Designed and trained a many-to-one LSTM architecture to model word dependencies.
-**Domain Focus**:       Fine-tuned on literature data (e.g., classic novels, poetry) for rich, context-aware predictions.
-**UI**:                 Built a Streamlit app allowing users to input text and receive next-word suggestions instantly.
+**Data Preprocessing**: Tokenized and sequenced literature texts for LSTM compatibility.<br>
+**LSTM Model**:         Designed and trained a many-to-one LSTM architecture to model word dependencies.<br>
+**Domain Focus**:       Fine-tuned on literature data (e.g., classic novels, poetry) for rich, context-aware predictions.<br>
+**UI**:                 Built a Streamlit app allowing users to input text and receive next-word suggestions instantly.<br>
 **Deployment**:         Hosted the model and app on a cloud platform for seamless access.
 
 ## Tech Stack
-**Languages**:       Python
-**DL Framework**:    TensorFlow/Keras (LSTM implementation)
-**NLP Tools**:       NLTK, Tokenizer (or specify your preprocessing library)
-**Visualization**:   Matplotlib (for training metrics)
-**UI**:              Streamlit
+**Languages**:       Python<br>
+**DL Framework**:    TensorFlow/Keras (LSTM implementation)<br>
+**NLP Tools**:       NLTK, Tokenizer (or specify your preprocessing library)<br>
+**Visualization**:   Matplotlib (for training metrics)<br>
+**UI**:              Streamlit<br>
 **Version Control**: Git & GitHub
